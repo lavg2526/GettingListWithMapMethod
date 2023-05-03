@@ -1,0 +1,2 @@
+# GettingListWithMapMethod
+Created with CodeSandbox
